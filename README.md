@@ -47,3 +47,5 @@ And i use **Arch linux**, BTW!
 If you use Arch, take a chance on JAY, and thank you for read this!
 
 ---
+
+<img src="./da1fo9o-d4a0743b-006e-4736-80e2-6c5200cb0a6a.gif">
