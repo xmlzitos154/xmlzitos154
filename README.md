@@ -2,6 +2,8 @@ $ cat **README.md**
 
 <div align="center">
 
+<img src="./n4iz2zypyir81.gif" width="200" height="200">
+
   # XML
   I Make random CLI stuff 
 
