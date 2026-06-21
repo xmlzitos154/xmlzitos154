@@ -7,7 +7,7 @@ $ cat **README.md**
   # XML
   I Make random CLI stuff 
 
-  Powered by Monster Energy! <img src="./Monster.png" width="20" height="20">
+  Powered by Monster Energy! 
  
 </div>
 
