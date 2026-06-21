@@ -1,16 +1,18 @@
-## Hi there 👋
+$ cat **README.md**
 
-<!--
-**xmlzitos154/xmlzitos154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  # XML
+  I Make random CLI stuff 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Powered by Monster Energy
+ 
+</div>
+
+# About
+
+I'm Matheuz, also know by XML.
+
+I'm a Backend developer, focused on CLI scripts, written in shell script or bash
+
+And i use Arch linux, BTW!
