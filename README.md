@@ -7,7 +7,7 @@ $ cat **README.md**
   # XML
   I Make random CLI stuff 
 
-  Powered by Monster Energy! 
+  **Powered by Monster Energy!** 
  
 </div>
 
@@ -27,22 +27,20 @@ And i use **Arch linux**, BTW!
 
 # Contact
 
-**Email**: **matheuz.ricardo@protonmail.com**
+**Email: matheuz.ricardo@protonmail.com**
 
 # Skills
 
 ## Systems
 
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-0B57A4?style=flat-square&logo=fedora&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux_Mint-3eb489?style=flat-square&logo=linux-mint&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=rounded-square&logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=rounded-square&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-0B57A4?style=rounded-square&logo=fedora&logoColor=white)
+![Mint](https://img.shields.io/badge/Linux_Mint-3eb489?style=rounded-square&logo=linux-mint&logoColor=white)
 
 ## Languages
 
-![Bash](https://img.shields.io/badge/Bash-777777?style=rounded-square&logo=gnu-bash&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=rounded-square&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-CCCCCC?style=rounded-square&logo=python&logoColor=000000)
+![Skills](https://skillicons.dev/icons?i=js,html,css,python,bash)
 
 # That's all for now
 
