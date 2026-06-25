@@ -40,7 +40,7 @@ And i use **Arch linux**, BTW!
 
 ## Languages
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,python,bash)
+![Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,lua)
 
 # That's all for now
 
