@@ -33,14 +33,11 @@ And i use **Arch linux**, BTW!
 
 ## Systems
 
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=rounded-square&logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=rounded-square&logo=arch-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-0B57A4?style=rounded-square&logo=fedora&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux_Mint-3eb489?style=rounded-square&logo=linux-mint&logoColor=white)
+![Sys](https://skillicons.dev/icons?i=linux,arch,redhat,mint)
 
 ## Languages
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,lua)
+![Skills](https://skillicons.dev/icons?i=js,html,css,bash,lua)
 
 # That's all for now
 
