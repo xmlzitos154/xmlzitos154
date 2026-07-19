@@ -21,9 +21,9 @@ And i use **Arch linux**, BTW!
 
 # Featured Projects
 
-**JAY**: A semantic AUR helper wrapper with flatpak integration *(Click on the square below for more info)*
+**CLY**: A semantic AUR helper wrapper with flatpak integration *(Click on the square below for more info)*
 
-[![Jay](https://img.shields.io/badge/JAY-1793D1?style=rounded-square&logo=arch-linux&logoColor=white)](https://github.com/xmlzitos154/jay.git)
+[![Cly](https://img.shields.io/badge/CLY-1793D1?style=rounded-square&logo=arch-linux&logoColor=white)](https://github.com/xmlzitos154/cly)
 
 # Contact
 
@@ -37,11 +37,11 @@ And i use **Arch linux**, BTW!
 
 ## Languages
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,bash,lua)
+![Skills](https://skillicons.dev/icons?i=js,html,css,bash,lua,git)
 
 # That's all for now
 
-If you use Arch, take a chance on JAY, and thank you for read this!
+If you use Arch, take a chance on CLY, and thank you for read this!
 
 ---
 
