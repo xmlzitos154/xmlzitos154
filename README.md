@@ -29,6 +29,35 @@ And i use **Arch linux**, BTW!
 
 **Email: matheuz.ricardo@protonmail.com**
 
+### Now in XML!
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+  <me>
+    <name>Matheuz Ferreira</name>
+    <nickname>XML</nickname>
+    <description>I make random CLI stuff</description>
+    <slogan>Powered by Monster Energy!</slogan>
+  </me>
+  <about>
+    <role>Backend Developer</role>
+    <focus>Command-line scripts, written in Shell Script / Bash</focus>
+    <operating_system>Arch Linux</operating_system>
+  </about>
+  <featured_projects>
+    <project>
+      <name>CLY</name>
+      <description>Semantic AUR helper wrapper with Flatpak integration</description>
+      <url>https://github.com/xmlzitos154/cly</url>
+    </project>
+  </featured_projects>
+  <contact>
+    <email>matheuz.ricardo@protonmail.com</email>
+  </contact>
+</profile>
+```
+
 # Skills
 
 ## Systems
