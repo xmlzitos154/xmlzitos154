@@ -62,7 +62,7 @@ And i use **Arch linux**, BTW!
 
 ## Systems
 
-![Sys](https://skillicons.dev/icons?i=linux,arch,redhat,mint)
+![Sys](https://skillicons.dev/icons?i=linux,arch,debian,mint)
 
 ## Languages
 
